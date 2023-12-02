@@ -1,0 +1,487 @@
+{
+  "products": [
+    {
+      "id": 10001,
+      "name": "realme C53 (Champion Black, 64 GB)",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 11999,
+      "poster": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "https://i.postimg.cc/bNhK4CN7/product-1001.jpg",
+      "rating": 5,
+      "category": "mobile",
+      "in_stock": true,
+      "best_seller": true
+    },
+    {
+      "id": 10002,
+      "name": "REDMI 11 Prime (Peppy Purple, 128 GB)",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 10499,
+      "poster": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "https://i.postimg.cc/bN42zt4f/product-1004.jpg",
+      "rating": 5,
+      "category": "mobile",
+      "in_stock": true,
+      "best_seller": false
+    },
+    {
+      "id": 10003,
+      "name": "ASUS Vivobook 15 Core i3 1115G4 11th Gen - (8 GB/512 GB SSD/Windows 11 Home)",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 39490,
+      "poster": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "https://i.postimg.cc/0yprPHp7/product-1005.jpg",
+      "rating": 3,
+      "category": "laptop",
+      "in_stock": true,
+      "best_seller": false
+    },
+    {
+      "id": 10004,
+      "name": "boAt Airdopes 161 with 40 Hours Playback, ASAP Charge & 10mm Drivers Bluetooth Headset  (Cool Sapphire, True Wireless)",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 1799,
+      "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "https://i.postimg.cc/yYp2WVTH/product-1008.jpg",
+      "rating": 5,
+      "category": "headphone",
+      "in_stock": true,
+      "best_seller": true
+    },
+    {
+      "id": 10005,
+      "name": "LG UR7500 108 cm (43 inch) Ultra HD (4K) LED Smart WebOS TV 2023 Edition  (43UR7500PSC)",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 44990,
+      "poster": "https://images.unsplash.com/photo-1639322537228-f710d846310a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "https://i.postimg.cc/fWCLbggN/product-1014.png",
+      "rating": 3,
+      "category": "tv",
+      "in_stock": true,
+      "best_seller": false
+    },
+    {
+      "id": 10006,
+      "name": "SAMSUNG Galaxy F13 (Sunrise Copper, 64 GB)",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 10499,
+      "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "https://i.postimg.cc/pL7kMrJm/product-1002.jpg",
+      "rating": 5,
+      "category": "mobile",
+      "in_stock": true,
+      "best_seller": false
+    },
+    {
+      "id": 10007,
+      "name": "SENS Pikaso 140 cm (55 inch) Ultra HD (4K) LED Smart Android TV 2022",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 30499,
+      "poster": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "https://i.postimg.cc/SRRpRVJS/product-1015.png",
+      "rating": 5,
+      "category": "tv",
+      "in_stock": true,
+      "best_seller": false
+    },
+    {
+      "id": 10008,
+      "name": "OnePlus Bullets Wireless Z2 with Fast Charge, 30 Hrs Battery Life",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 2199,
+      "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "https://i.postimg.cc/vTNX8mw2/product-1009.jpg",
+      "rating": 5,
+      "category": "headphone",
+      "in_stock": true,
+      "best_seller": true
+    },
+    {
+      "id": 10009,
+      "name": "realme 80 cm (32 inch) HD Ready LED Smart Android TV 2023",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 18999,
+      "poster": "https://images.unsplash.com/photo-1624953587687-daf255b6b80a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "https://i.postimg.cc/YSMNHFmq/product-1011.png",
+      "rating": 5,
+      "category": "tv",
+      "in_stock": true,
+      "best_seller": false
+    },
+    {
+      "id": 10010,
+      "name": "OnePlus Y1S 108 cm (43 inch) Full HD LED Smart Android TV 2022",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 25999,
+      "poster": "https://images.unsplash.com/photo-1623479322729-28b25c16b011?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "https://i.postimg.cc/Bv7psg9c/product-1013.png",
+      "rating": 4,
+      "category": "tv",
+      "in_stock": true,
+      "best_seller": false
+    },
+    {
+      "id": 10011,
+      "name": "HP 15s (2023) Intel Core i3 1215U 12th Gen - (8 GB/512 GB SSD/Windows 11 Home)",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 45040,
+      "poster": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "https://i.postimg.cc/t7Gycpvw/product-1006.jpg",
+      "rating": 5,
+      "category": "laptop",
+      "in_stock": true,
+      "best_seller": true
+    },
+    {
+      "id": 10012,
+      "name": "Mi 5A 80 cm (32 inch) HD Ready LED Smart Android TV with Dolby Audio (2022 Model)",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 21499,
+      "poster": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "https://i.postimg.cc/V65CfWs1/product-1012.png",
+      "rating": 5,
+      "category": "tv",
+      "in_stock": true,
+      "best_seller": false
+    },
+    {
+      "id": 10013,
+      "name": "Lenovo V15 Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home)",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 55499,
+      "poster": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "https://i.postimg.cc/DZWSkf5w/product-1007.jpg",
+      "rating": 4,
+      "category": "laptop",
+      "in_stock": false,
+      "best_seller": false
+    },
+    {
+      "id": 10014,
+      "name": "POCO C51 (Power Black, 64 GB)",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 7499,
+      "poster": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "https://i.postimg.cc/mDTHvWJc/product-1003.jpg",
+      "rating": 4,
+      "category": "mobile",
+      "in_stock": false,
+      "best_seller": false
+    },
+    {
+      "id": 10015,
+      "name": "Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 1399,
+      "poster": "https://images.unsplash.com/photo-1587440871875-191322ee64b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "https://i.postimg.cc/50PSpty9/product-1010.png",
+      "rating": 2,
+      "category": "headphone",
+      "in_stock": false,
+      "best_seller": false
+    }
+  ],
+  "featured_products": [
+    {
+      "id": 10004,
+      "name": "boAt Airdopes 161 with 40 Hours Playback, ASAP Charge & 10mm Drivers Bluetooth Headset  (Cool Sapphire, True Wireless)",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 1799,
+      "poster": "https://i.ibb.co/kc0yfW0/product_1001.jpg",
+      "image_local": "https://i.postimg.cc/yYp2WVTH/product-1008.jpg",
+      "rating": 5,
+      "category": "headphone",
+      "in_stock": true,
+      "best_seller": true
+    },
+    {
+      "id": 10006,
+      "name": "SAMSUNG Galaxy F13 (Sunrise Copper, 64 GB)",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 10499,
+      "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "https://i.postimg.cc/pL7kMrJm/product-1002.jpg",
+      "rating": 5,
+      "category": "mobile",
+      "in_stock": true,
+      "best_seller": false
+    },
+    {
+      "id": 10008,
+      "name": "OnePlus Bullets Wireless Z2 with Fast Charge, 30 Hrs Battery Life",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 2199,
+      "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "https://i.postimg.cc/vTNX8mw2/product-1009.jpg",
+      "rating": 5,
+      "category": "headphone",
+      "in_stock": true,
+      "best_seller": true
+    }
+  ],
+  "orders": [
+    {
+      "cartList": [
+        {
+          "id": 10004,
+          "name": "boAt Airdopes 161 with 40 Hours Playback, ASAP Charge & 10mm Drivers Bluetooth Headset  (Cool Sapphire, True Wireless)",
+          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+          "price": 1799,
+          "poster": "https://i.ibb.co/kc0yfW0/product_1001.jpg",
+          "image_local": "/assets/images/product_1008.jpg",
+          "rating": 5,
+          "category": "headphone",
+          "in_stock": true,
+          "best_seller": true
+        }
+      ],
+      "amount_paid": 1799,
+      "quantity": 1,
+      "user": {
+        "name": "Vijay Jawalkar",
+        "email": "vijay@gmail.com",
+        "id": 1
+      },
+      "id": 1
+    },
+    {
+      "cartList": [
+        {
+          "id": 10004,
+          "name": "boAt Airdopes 161 with 40 Hours Playback, ASAP Charge & 10mm Drivers Bluetooth Headset  (Cool Sapphire, True Wireless)",
+          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+          "price": 1799,
+          "poster": "https://i.ibb.co/kc0yfW0/product_1001.jpg",
+          "image_local": "/assets/images/product_1008.jpg",
+          "rating": 5,
+          "category": "headphone",
+          "in_stock": true,
+          "best_seller": true
+        }
+      ],
+      "amount_paid": 1799,
+      "quantity": 1,
+      "user": {
+        "name": "Vijay Jawalkar",
+        "email": "vijay@gmail.com",
+        "id": 1
+      },
+      "id": 2
+    },
+    {
+      "cartList": [
+        {
+          "id": 10004,
+          "name": "boAt Airdopes 161 with 40 Hours Playback, ASAP Charge & 10mm Drivers Bluetooth Headset  (Cool Sapphire, True Wireless)",
+          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+          "price": 1799,
+          "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "/assets/images/product_1008.jpg",
+          "rating": 5,
+          "category": "headphone",
+          "in_stock": true,
+          "best_seller": true
+        }
+      ],
+      "amount_paid": 1799,
+      "quantity": 1,
+      "user": {
+        "name": "Vijay Jawalkar",
+        "email": "vijay@gmail.com",
+        "id": 1
+      },
+      "id": 3
+    },
+    {
+      "cartList": [
+        {
+          "id": 10003,
+          "name": "ASUS Vivobook 15 Core i3 1115G4 11th Gen - (8 GB/512 GB SSD/Windows 11 Home)",
+          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+          "price": 39490,
+          "poster": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "/assets/images/product_1005.jpg",
+          "rating": 3,
+          "category": "laptop",
+          "in_stock": true,
+          "best_seller": false
+        }
+      ],
+      "amount_paid": 39490,
+      "quantity": 1,
+      "user": {
+        "name": "Vijay Jawalkar",
+        "email": "vijay@gmail.com",
+        "id": 1
+      },
+      "id": 4
+    },
+    {
+      "cartList": [
+        {
+          "id": 10002,
+          "name": "REDMI 11 Prime (Peppy Purple, 128 GB)",
+          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+          "price": 10499,
+          "poster": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "/assets/images/product_1004.jpg",
+          "rating": 5,
+          "category": "mobile",
+          "in_stock": true,
+          "best_seller": false
+        }
+      ],
+      "amount_paid": 10499,
+      "quantity": 1,
+      "user": {
+        "name": "Rahul Sharma",
+        "email": "rahul@gmail.com",
+        "id": 3
+      },
+      "id": 5
+    },
+    {
+      "cartList": [
+        {
+          "id": 10003,
+          "name": "ASUS Vivobook 15 Core i3 1115G4 11th Gen - (8 GB/512 GB SSD/Windows 11 Home)",
+          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+          "price": 39490,
+          "poster": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "/assets/images/product_1005.jpg",
+          "rating": 3,
+          "category": "laptop",
+          "in_stock": true,
+          "best_seller": false
+        }
+      ],
+      "amount_paid": 39490,
+      "quantity": 1,
+      "user": {
+        "name": "Vijay Jawalkar",
+        "email": "vijay@gmail.com",
+        "id": 1
+      },
+      "id": 6
+    },
+    {
+      "cartList": [
+        {
+          "id": 10012,
+          "name": "Mi 5A 80 cm (32 inch) HD Ready LED Smart Android TV with Dolby Audio (2022 Model)",
+          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+          "price": 21499,
+          "poster": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "/assets/images/product_1012.jpg",
+          "rating": 5,
+          "category": "tv",
+          "in_stock": true,
+          "best_seller": false
+        }
+      ],
+      "amount_paid": 21499,
+      "quantity": 1,
+      "user": {
+        "name": "Vijay Jawalkar",
+        "email": "vijay@gmail.com",
+        "id": 1
+      },
+      "id": 7
+    },
+    {
+      "cartList": [
+        {
+          "id": 10002,
+          "name": "REDMI 11 Prime (Peppy Purple, 128 GB)",
+          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+          "price": 10499,
+          "poster": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "https://i.postimg.cc/bN42zt4f/product-1004.jpg",
+          "rating": 5,
+          "category": "mobile",
+          "in_stock": true,
+          "best_seller": false
+        }
+      ],
+      "amount_paid": 10499,
+      "quantity": 1,
+      "user": {
+        "name": "Vijay Jawalkar",
+        "email": "vijay@gmail.com",
+        "id": 1
+      },
+      "id": 8
+    },
+    {
+      "cartList": [
+        {
+          "id": 10003,
+          "name": "ASUS Vivobook 15 Core i3 1115G4 11th Gen - (8 GB/512 GB SSD/Windows 11 Home)",
+          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+          "price": 39490,
+          "poster": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "https://i.postimg.cc/0yprPHp7/product-1005.jpg",
+          "rating": 3,
+          "category": "laptop",
+          "in_stock": true,
+          "best_seller": false
+        }
+      ],
+      "amount_paid": 39490,
+      "quantity": 1,
+      "user": {
+        "name": "Vijay Jawalkar",
+        "email": "vijay@gmail.com",
+        "id": 1
+      },
+      "id": 9
+    }
+  ],
+  "users": [
+    {
+      "email": "vijay@gmail.com",
+      "password": "$2a$10$.zCRa2c8D6i26D3rrQZJe.X72U.75xInC237xy5NFPl2G7ftUgVsG",
+      "name": "Vijay Jawalkar",
+      "id": 1
+    },
+    {
+      "email": "raju@gmail.com",
+      "password": "$2a$10$FGso9/vWi44Xvh8tvnBEMeBkbhXLjW7gcPkjUcjFMF3KNToM9hwYm",
+      "name": "Raju Kumar",
+      "id": 2
+    },
+    {
+      "email": "rahul@gmail.com",
+      "password": "$2a$10$p5VaD7jq23RNVrP3m9evD.9EP60fSpm5wjq59fXT/suzoiI10bbx2",
+      "name": "Rahul Sharma",
+      "id": 3
+    }
+  ]
+}
